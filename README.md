@@ -113,10 +113,8 @@ A full-stack application for creating, scheduling, and sharing digital memory ca
 
 **Stack:** React · Tailwind CSS · Spring Boot · MongoDB · Kafka · AWS S3
 
-- 🔗 **Repository:** [Add your Time Capsule repository URL](#)
-- 🌐 **Live application:** [Add your deployed application URL, if available](#)
-
-> Replace the two links above with the actual project URLs before publishing.
+- 🔗 **Repository:** [https://github.com/subhadeep47/DigitalCapsule](#)
+- 🌐 **Live application:** [https://digitalcapsule.onrender.com](#)
 
 ## 📈 GitHub at a Glance
 
