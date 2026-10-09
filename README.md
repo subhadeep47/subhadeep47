@@ -1,10 +1,38 @@
 <div align="center">
 
+<!-- A Java/Spring-inspired hero: a small code signature instead of a generic banner. -->
+<table>
+  <tr>
+    <td align="left">
+
+```java
+@RestController
+@RequestMapping("/api/engineer")
+public class SubhadeepSaha {
+
+    @GetMapping
+    public Profile introduce() {
+        return Profile.builder()
+            .name("Subhadeep Saha")
+            .role("Full-Stack Engineer")
+            .backend("Java • Spring Boot • Microservices")
+            .frontend("React • TypeScript")
+            .cloud("AWS")
+            .exploring("Spring AI • RAG • MCP")
+            .build();
+    }
+}
+```
+
+</td>
+  </tr>
+</table>
+
 # Subhadeep Saha
 
-### Full-Stack Engineer · AI Integration · Cloud-Native Applications
+### Java & Spring Boot · Full-Stack Engineering · AI Integration
 
-**Building reliable web applications today. Exploring intelligent, retrieval-driven experiences for tomorrow.**
+**From dependable backend systems to intelligent applications.**
 
 <p>
   <a href="https://github.com/subhadeep47">
@@ -17,8 +45,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadeep47&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
 
 </div>
 
@@ -102,7 +128,8 @@ Embedding model ──→ Vector database (Pinecone)
 
 ## 🚀 Featured Project
 
-### Time Capsule Web App
+### [Time Capsule Web App](https://github.com/subhadeep47/DigitalCapsule)
+
 A full-stack application for creating, scheduling, and sharing digital memory capsules.
 
 **Highlights**
@@ -113,8 +140,8 @@ A full-stack application for creating, scheduling, and sharing digital memory ca
 
 **Stack:** React · Tailwind CSS · Spring Boot · MongoDB · Kafka · AWS S3
 
-- 🔗 **Repository:** [https://github.com/subhadeep47/DigitalCapsule](#)
-- 🌐 **Live application:** [https://digitalcapsule.onrender.com](#)
+- 🔗 **Repository:** [DigitalCapsule](https://github.com/subhadeep47/DigitalCapsule)
+- 🌐 **Live application:** [digitalcapsule.onrender.com](https://digitalcapsule.onrender.com)
 
 ## 📈 GitHub at a Glance
 
